@@ -14,5 +14,3 @@ Soy estudiante de Ingeniería de Computación en la ESPOL con experiencia en:
 
 ## Contacto
 - [Github](https://github.com/bironmanusa)
-- [LinkedIn]()
-- Correo: mmayorgan@gmail.com
