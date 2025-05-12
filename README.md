@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mateo Mayorga
+Este es mi espacio personal. Aquí encontrarás una coleccion de proyectos, experimentos, herramientas y notas relaconadas con mis intereses y trabajos en programación.
 
-<!--
-**bironmanusa/bironmanusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+Soy estudiante de Ingeniería de Computación en la ESPOL con experiencia en:
+- Python
+- Java
+- C
 
-Here are some ideas to get you started:
+## Herramientas
+- Git
+- VSCode
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- [Github](https://github.com/bironmanusa)
+- [LinkedIn]()
+- Correo: mmayorgan@gmail.com
